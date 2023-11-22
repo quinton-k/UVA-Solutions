@@ -2,6 +2,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
+/**
+ * Problem {@link <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=53">117 - The Postal Worker Rings Once</a>}
+ * Status: Accepted
+ * Run Time: 0.210
+ */
 class Main {
 
     public static void main(String[] args) {
